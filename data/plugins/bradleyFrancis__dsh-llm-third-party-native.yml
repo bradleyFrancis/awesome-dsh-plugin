@@ -1,0 +1,6 @@
+url: https://github.com/bradleyFrancis/dsh-llm-third-party-native
+name: bradleyFrancis/dsh-llm-third-party-native
+category: model
+description:
+  en: Route custom Anthropic-compatible Messages endpoints through DeepSeek's native adapter with thinking budgets, unsigned replay cleanup, sticky session_id routing, a persona suffix, and local SearXNG search.
+  zh: 通过 DeepSeek 原生适配器接入自定义 Anthropic 兼容端点，提供思考预算、无签名推理清理、session_id 粘性路由、人设后缀与本地 SearXNG 搜索。
